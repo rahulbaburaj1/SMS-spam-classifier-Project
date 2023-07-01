@@ -2,7 +2,7 @@
 End to end code for the email spam classifier project
 
 SMS-Spam-classification-using-multinomial-naive-bayes
-
+    Naive Bayes algorithm is a supervised machine learning algorithm used for classification tasks. It works on the principle of Bayes theorem, which is based on the concept of conditional probability. 
 
 Steps
 
@@ -15,7 +15,10 @@ Steps
     calculate accuracy, precision, and recall
     calculate the confusion matrix
     Test the model with a new Sms/Email massage
+    Pickle model.
 
 
 
-The accuracy of our Naïve Bayes multinomial model is 99.01345291479821 %
+The accuracy of our Naïve Bayes multinomial model is 
+
+    0.9939540507859734 %
