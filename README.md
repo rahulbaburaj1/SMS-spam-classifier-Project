@@ -1,5 +1,5 @@
 # spamfiltering
-End to end code for the email spam classifier project
+End to end code for the email/SMS spam classifier project
 
 SMS-Spam-classification-using-multinomial-naive-bayes
     Naive Bayes algorithm is a supervised machine learning algorithm used for classification tasks. It works on the principle of Bayes theorem, which is based on the concept of conditional probability. 
